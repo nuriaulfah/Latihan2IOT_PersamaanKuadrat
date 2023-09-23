@@ -1,0 +1,1 @@
+# Latihan2IOT_PersamaanKuadrat
